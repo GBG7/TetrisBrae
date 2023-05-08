@@ -1,3 +1,4 @@
+# tetris taha
 This program utilizes the Pygame library to create a functional Tetris game. The game includes a grid for the Tetrominoes to fall and stack on,
 a next piece preview, and a system for clearing full rows.
 The player can move and rotate the falling Tetromino using the arrow keys, and the game ends if a Tetromino is unable to fit onto the grid.
